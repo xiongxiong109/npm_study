@@ -1,0 +1,33 @@
+{
+  "name": "npm_study",
+  "version": "0.1.0",
+  "description": "npm 模块npm包管理与发布、nodejs模块开发、单元测试",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongxiong109/npm_study.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "mocha"
+  ],
+  "author": "xiongxiong109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongxiong109/npm_study/issues"
+  },
+  "homepage": "https://github.com/xiongxiong109/npm_study#readme"
+}
