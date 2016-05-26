@@ -25,7 +25,7 @@
     "mocha"
   ],
   "author": "xiongxiong109",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiongxiong109/npm_study/issues"
   },
